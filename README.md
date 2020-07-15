@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to my profile
 
-<!--
-**arturbruno17/arturbruno17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who i am 🖐🏻
 
-Here are some ideas to get you started:
+Hi, my name is Artur Bruno, I'm 15 years old and I'm extremely interested in the world of technology. I'm very curious and I'm always trying to seek knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current knowledge 📚
+
+Actualy, i have knowledge in:
+- HTML (Intermediate)
+- CSS (Intermediate)
+- JavaScript (Beginner)
+- Python (Beginner)
+
+## Objectives 📈
+
+I want to become a full-stack web developer
+
+My next adventures will be in:
+
+- PHP
+- MySQL
+- React
+- Node
+- Flask
+
+## Created projects: 
+
+I don't have any projects yet but I already have some in mind
