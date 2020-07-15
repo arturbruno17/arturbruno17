@@ -24,6 +24,6 @@ My next adventures will be in:
 - Node
 - Flask
 
-## Created projects: 
+## Created projects: 🏆
 
 I don't have any projects yet but I already have some in mind
