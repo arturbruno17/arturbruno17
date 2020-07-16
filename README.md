@@ -26,4 +26,4 @@ My next adventures will be in:
 
 ## Created projects: 🏆
 
-I don't have any projects yet but I already have some in mind
+To see my projects, just look at my profile!
