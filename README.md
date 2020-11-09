@@ -10,19 +10,17 @@ Actualy, i have knowledge in:
 - HTML (Intermediate)
 - CSS (Intermediate)
 - JavaScript (Beginner)
-- Python (Beginner)
+- Java (Beginner)
+- Kotlin (Beginner)
 
 ## Objectives 📈
 
-I want to become a full-stack web developer
+I want to become a android developer
 
 My next adventures will be in:
 
-- PHP
-- MySQL
-- React
-- Node
-- Flask
+- Android development
+- React-native
 
 ## Created projects: 🏆
 
