@@ -7,9 +7,9 @@ Hi, my name is Artur Bruno, I'm 15 years old and I'm extremely interested in the
 ## Current knowledge 📚
 
 Actualy, i have knowledge in:
-- HTML (Intermediate)
-- CSS (Intermediate)
-- JavaScript (Beginner)
+- HTML
+- CSS
+- JavaScript
 - Java (Beginner)
 - Kotlin (Beginner)
 
