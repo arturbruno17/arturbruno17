@@ -10,8 +10,9 @@ Actualy, i have knowledge in:
 - HTML
 - CSS
 - JavaScript
-- Java (Beginner)
-- Kotlin (Beginner)
+- Java 
+- Kotlin
+- Android
 
 ## Objectives 📈
 
@@ -19,7 +20,6 @@ I want to become a android developer
 
 My next adventures will be in:
 
-- Android development
 - React-native
 
 ## Created projects: 🏆
