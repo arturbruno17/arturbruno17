@@ -1,18 +1,19 @@
 
 <h1 align="center">Oi, meu nome é Artur Bruno</h1>
-<p align="center">Desenvolvedor front-end e estudante de desenvolvimento android. Apaixonado por Java e Kotlin</p>
+<p align="center">Desenvolvedor Android e entusiasta do mundo DevOps. Apaixonado por Kotlin</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 <br>
 <ul>
-  <li>Atualmente estou <strong>desempregado</strong></li>
+  <li>Atualmente, trabalho sendo <strong>AWS Academy Educator</strong> na escola estadual do Ceará Maria do Carmo Bezerra, onde ensino os fundadmentos da computação em nuvem e da AWS para alunos do ensino médio.</li>
   <li>Estou estudando <strong>Kotlin</strong> aplicado em <strong>desenvolvimento android</strong></li>
 </ul>
 <br>
