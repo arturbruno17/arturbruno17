@@ -13,8 +13,8 @@
 </p>
 <br>
 <ul>
-  <li>Atualmente, trabalho sendo <strong>AWS Academy Educator</strong> na escola estadual do Ceará Maria do Carmo Bezerra, onde ensino os fundadmentos da computação em nuvem e da AWS para alunos do ensino médio.</li>
-  <li>Estou estudando <strong>Kotlin</strong> aplicado em <strong>desenvolvimento android</strong></li>
+  <li>Atualmente, trabalho sendo <strong>AWS Academy Educator</strong> na escola estadual do Ceará Maria do Carmo Bezerra, onde ensino os fundamentos da computação em nuvem e da AWS para alunos do ensino médio.</li>
+  <li>Estou estudando <strong>Kotlin</strong> e <strong>Desenvolvimento Android</strong></li>
 </ul>
 <br>
 <p align="center">
