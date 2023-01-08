@@ -13,7 +13,7 @@
 </p>
 <br>
 <ul>
-  <li>Atualmente, trabalho sendo <strong>AWS Academy Educator</strong> na escola estadual do Ceará Maria do Carmo Bezerra, onde ensino os fundamentos da computação em nuvem e da AWS para alunos do ensino médio.</li>
+  <li>Atualmente estou desempregado, porém, em busca por uma oportunidade como <strong>Desenvolvedor Android Júnior</strong>
   <li>Estou estudando <strong>Kotlin</strong> e <strong>Desenvolvimento Android</strong></li>
 </ul>
 <br>
