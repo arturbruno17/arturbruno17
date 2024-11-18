@@ -13,7 +13,7 @@
 </p>
 <br>
 <ul>
-  <li>Atualmente estou trabalhando no Grupo J. Sleiman como <strong>Desenvolvedor Android</strong>
+  <li>Atualmente estou trabalhando na NTT DATA como <strong>Desenvolvedor Android</strong>
   <li>Estou estudando <strong>Kotlin</strong> e <strong>Desenvolvimento Android</strong></li>
 </ul>
 <br>
