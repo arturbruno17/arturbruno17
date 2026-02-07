@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi, meu nome é Artur Bruno</h1>
-<p align="center">Desenvolvedor Mobile e entusiasta do mundo DevOps. Apaixonado por Kotlin</p>
+<p align="center">Desenvolvedor Mobile e entusiasta do mundo DevOps.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -16,8 +16,8 @@
 </p>
 <br>
 <ul>
-  <li>Atualmente estou trabalhando na Marlabs como <strong>Desenvolvedor Mobile</strong>
-  <li>Estou estudando <strong>Swift</strong> e <strong>Desenvolvimento iOS</strong></li>
+  <li>Atualmente estou trabalhando na Marlabs como <strong>Desenvolvedor Mobile.</strong>
+  <li>Estou estudando <strong>Swift</strong> e <strong>Desenvolvimento iOS</strong>.</li>
 </ul>
 <br>
 <p align="center">
